@@ -2,7 +2,7 @@ Base = require './base'
 Metafields = require './metafield'
 
 class CarrierService extends Base
-	slug: "carrier_services"
+	slug: "carrier_service"
 	prefix: "/carrier_services"
 
 	constructor: (site) ->
